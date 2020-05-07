@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1587107684 source:d:\code_practice\c\practise\main.c
+	<stdio.h>
+
+1587110587 source:d:\code_practice\c\practise\multiply.c
+	<stdio.h>
+	<conio.h>
+
+1587110890 source:d:\code_practice\c\practise\ascii value.c
+	<stdio.h>
+	<conio.h>
+
+1587119339 source:d:\code_practice\c\practise\reminder and quetiont.c
+	<stdio.h>
+	<conio.h>
+
+1587119352 source:d:\code_practice\c\practise\sizeof.c
+	<stdio.h>
+	<conio.h>
+
+1587455384 source:d:\code_practice\c\practise\roots of equations.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1587455761 source:d:\code_practice\c\practise\untitled2.c
+	<math.h>
+	<stdio.h>
+	<conio.h>
+
+1587457903 source:d:\code_practice\c\practise\minimum no. of all no..cpp
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1587534817 source:d:\code_practice\c\practise\sum of natural no..c
+	<stdio.h>
+	<conio.h>
+
+1587536246 source:d:\code_practice\c\practise\gcd.c
+	<stdio.h>
+	<conio.h>
+
+1587537363 source:d:\code_practice\c\practise\lcm.c
+	<stdio.h>
+	<conio.h>
+
+1587607688 source:d:\code_practice\c\practise\chracter by loop.c
+	<stdio.h>
+	<conio.h>
+
+1587609010 source:d:\code_practice\c\practise\count no. of digit.c
+	<stdio.h>
+	<conio.h>
+
+1587614612 source:d:\code_practice\c\practise\reverse.c
+	<stdio.h>
+	<conio.h>
+
+1587622871 source:d:\code_practice\c\practise\power fn.c
+	<conio.h>
+	<stdio.h>
+
+1587625224 source:d:\code_practice\c\practise\palindrom no..c
+	<stdio.h>
+	<conio.h>
+
+1587629873 source:d:\code_practice\c\practise\prime no..c
+	<stdio.h>
+	<conio.h>
+
+1587648563 source:d:\code_practice\c\practise\prime no. in ainterval.c
+	<stdio.h>
+	<conio.h>
+
+1587727035 source:d:\code_practice\c\practise\amstrong.c
+	<conio.h>
+	<stdio.h>
+
+1587729369 source:d:\code_practice\c\practise\armstrong no. in a intraval.c
+	<conio.h>
+	<stdio.h>
+	<math.h>
+
+1587799799 source:d:\code_practice\c\practise\factor printing.c
+	<conio.h>
+	<stdio.h>
+
+1587800578 source:d:\code_practice\c\practise\printing half pyramid.c
+	<stdio.h>
+	<conio.h>
+
+1587800977 source:d:\code_practice\c\practise\printing half opyramid of no..c
+	<stdio.h>
+	<conio.h>
+
+1587801878 source:d:\code_practice\c\practise\untitled5.c
+
+1587807169 source:d:\code_practice\c\practise\printing full pyramid by no..c
+	<stdio.h>
+	<conio.h>
+
+1587808496 source:d:\code_practice\c\practise\printing inverted full pyramid.c
+	<stdio.h>
+	<conio.h>
+
+1587875880 source:d:\code_practice\c\practise\pascal triangle.c
+	<stdio.h>
+	<conio.h>
+
+1587805563 source:d:\code_practice\c\practise\untitled7.c
+	<stdio.h>
+	<conio.h>
+
+1587805563 source:d:\code_practice\c\practise\printing star.c
+	<stdio.h>
+	<conio.h>
+
+1587876852 source:d:\code_practice\c\practise\floyd triangle.c
+	<stdio.h>
+	<conio.h>
+
+1587878143 source:d:\code_practice\c\practise\simple calculator.c
+	<conio.h>
+	<stdio.h>
+
+1587889798 source:d:\code_practice\c\practise\prime no. in a interval by using fn.c
+	<conio.h>
+	<stdio.h>
+
+1587973893 source:d:\code_practice\c\practise\gcd using recursion.c
+	<conio.h>
+	<stdio.h>
+	<math.h>
+
+1588068916 source:d:\code_practice\c\practise\binary to decimal.c
+	<conio.h>
+	<stdio.h>
+	<math.h>
+
+1588140752 source:d:\code_practice\c\practise\octal to decimal.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1588141593 source:d:\code_practice\c\practise\octal to binary.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1588141989 source:d:\code_practice\c\practise\decimal to octal.c
+	<stdio.h>
+	<conio.h>
+
+1588149487 source:d:\code_practice\c\practise\reverse a sentance using recursion.c
+	<conio.h>
+	<stdio.h>
+	<math.h>
+
+1588154506 source:d:\code_practice\c\practise\reverse a sentence using recursion.c
+	<string.h>
+	<stdio.h>
+	<conio.h>
+
+1588157897 source:d:\code_practice\c\practise\largest no. in a array.c
+	<stdio.h>
+	<conio.h>
+	<limits.h>
+
+1587457758 source:d:\code_practice\c\practise\maximum of all no..c
+	<stdio.h>
+	<conio.h>
+	<limits.h>
+
+1588225925 source:d:\code_practice\c\practise\largest no. in a array - copy.c
+	<stdio.h>
+	<conio.h>
+	<limits.h>
+
+1588226463 source:d:\code_practice\c\practise\printing even no.c
+	<stdio.h>
+	<conio.h>
+
+1588227440 source:d:\code_practice\c\practise\length of string.c
+	<stdio.h>
+	<conio.h>
+
+1588228335 source:d:\code_practice\c\practise\printing system date.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1588233639 source:d:\code_practice\c\practise\sum of two matrix.c
+	<stdio.h>
+	<conio.h>
+
+1588507156 source:d:\code_practice\c\practise\swapping using call by refrence.c
+	<stdio.h>
+	<conio.h>
+
+1584953387 source:d:\code_practice\c\practise\factorial.c
+	<stdio.h>
+	<conio.h>
+
